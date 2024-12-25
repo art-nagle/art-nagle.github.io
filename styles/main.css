@@ -1,7 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
-}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -12,16 +8,16 @@ body {
 header {
     background: #35424a;
     color: #ffffff;
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: center;
 }
 
 h1 {
-    margin: 0;
+    margin: 5px 0;
 }
 
 nav {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 nav a {
@@ -36,7 +32,7 @@ nav a:hover {
 
 .container {
     width: 80%;
-    margin: auto;
+    margin: 10px auto;
     overflow: hidden;
 }
 
@@ -44,7 +40,7 @@ footer {
     background: #35424a;
     color: #ffffff;
     text-align: center;
-    padding: 10px 0;
+    padding: 5px 0;
     position: relative;
     bottom: 0;
     width: 100%;
